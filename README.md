@@ -2,6 +2,8 @@
 
 ## 将视频变成字符动画的py脚本。
 
+![WechatIMG23](https://oavi5ezjr.qnssl.com/wp-content/uploads/2017/03/WechatIMG23.jpg)
+
 # 引入模块
 
 需要Python的两个模块
